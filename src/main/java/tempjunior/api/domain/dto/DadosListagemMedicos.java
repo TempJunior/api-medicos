@@ -1,6 +1,6 @@
-package tempjunior.api.dto;
+package tempjunior.api.domain.dto;
 
-import tempjunior.api.models.Medico;
+import tempjunior.api.domain.models.Medico;
 
 public record DadosListagemMedicos(
         Long id,

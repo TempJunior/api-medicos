@@ -1,4 +1,4 @@
-package tempjunior.api.dto;
+package tempjunior.api.domain.dto;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;

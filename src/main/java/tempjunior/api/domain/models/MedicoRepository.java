@@ -1,4 +1,4 @@
-package tempjunior.api.models;
+package tempjunior.api.domain.models;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

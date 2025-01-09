@@ -1,10 +1,10 @@
-package tempjunior.api.models;
+package tempjunior.api.domain.models;
 
 import jakarta.persistence.*;
 import lombok.*;
-import tempjunior.api.dto.DadosAtualizarMedico;
-import tempjunior.api.dto.DadosCadastroMedico;
-import tempjunior.api.dto.Especialidade;
+import tempjunior.api.domain.dto.DadosAtualizarMedico;
+import tempjunior.api.domain.dto.DadosCadastroMedico;
+import tempjunior.api.domain.dto.Especialidade;
 
 @Entity(name = "Medico")
 @Table(name = "tb_medicos")

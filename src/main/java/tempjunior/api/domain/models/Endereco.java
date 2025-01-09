@@ -1,8 +1,8 @@
-package tempjunior.api.models;
+package tempjunior.api.domain.models;
 
 import jakarta.persistence.Embeddable;
 import lombok.*;
-import tempjunior.api.dto.EnderecoDTO;
+import tempjunior.api.domain.dto.EnderecoDTO;
 
 @Embeddable
 @Getter

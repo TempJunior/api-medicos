@@ -1,4 +1,4 @@
-package tempjunior.api.dto;
+package tempjunior.api.domain.dto;
 
 public enum Especialidade {
     ORTOPEDIA,
