@@ -1,4 +1,4 @@
-package tempjunior.api.infra;
+package tempjunior.api.domain.exceptions;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
